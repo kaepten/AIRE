@@ -14,7 +14,7 @@
 
 ## Getting Started
 
-In den entrepchenden Unterverzeichnissen befinden sich unterschiedliche SKILL.md, welche für Copy & Paste Verwendung direkt in den AI Prompt eingefügt werden können, oder durch Referenzierung z.B. in Codex verwendet werden können.
+In den skills Unterverzeichnissen befinden sich die SKILL.md Dateien, welche für Copy & Paste Verwendung direkt in den AI Prompt eingefügt werden können, oder durch Referenzierung z.B. in Codex verwendet werden können.
 
 ## Content
 
@@ -22,13 +22,13 @@ In den entrepchenden Unterverzeichnissen befinden sich unterschiedliche SKILL.md
 
 Dieses Skill dient dazu, unstrukturierte oder halbstrukturierte Kundeninputs fachlich zu analysieren und fuer Requirements Engineering, Business Analyse, Demand-Klaerung, Stakeholdergespraeche und Spezifikationsvorbereitung nutzbar zu machen.
 
-https://github.com/kaepten/AIRE/skills/demandsprep/SKILL.md
+[skills/demandsprep/SKILL.md](https://github.com/kaepten/AIRE/blob/0edf766c0183c2cef7c926ab1612bd5e160b875c/skills/demandsprep/SKILL.md)
 
 ### demandcheck
 
-Prüfung, ob Business-Ziele/-AKs/-Abgrenzungen/-Risiken richtig (als RE/SA) formuliert sind. 
+Skill zur Prüfung, ob Business-Ziele/-AKs/-Abgrenzungen/-Risiken richtig (als RE/SA) formuliert sind. 
 
-https://github.com/kaepten/AI4RE/skills/demandscheck/SKILL.md
+[skills/demandscheck/SKILL.md](https://github.com/kaepten/AIRE/blob/0edf766c0183c2cef7c926ab1612bd5e160b875c/skills/demandscheck/SKILL.md)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
