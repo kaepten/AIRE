@@ -201,6 +201,7 @@ Nutze diesen Modus fuer gruendliche RE-/BA-Vorbereitung, Demand-Ausarbeitung, Wo
 12. UI, Bedienung und Benutzerfuehrung
    - Analysiere, ob Anforderungen an Anzeige, Meldungen, Interaktion, Benutzerfuehrung oder Verstaendlichkeit enthalten sind.
    - Unterscheide zwischen genannter Loesung und moeglichem Benutzerbeduerfnis.
+   - Hinterfrage, ob die Bedienung Mehrsprachig sein soll
 
 13. Geschaeftsregeln
    - Identifiziere moegliche fachliche Regeln.
@@ -230,6 +231,7 @@ Nutze diesen Modus fuer gruendliche RE-/BA-Vorbereitung, Demand-Ausarbeitung, Wo
      - Daten und Pflege
      - Systemverhalten
      - UI und Meldungen
+     - Mehrsprachigkeit in UI und Ausgaben
      - Geschaeftsregeln
      - Ausnahmen und Grenzfaelle
      - Abnahme und Test
@@ -318,6 +320,7 @@ Beispiele fuer gute Fragen:
 - Was soll passieren, wenn die benoetigte Information fehlt?
 - Ist die Anzeige rein informativ oder soll das System eine Aktion verhindern?
 - Welche Benutzergruppen sind betroffen?
+- Welche Sprachen sind betroffen?
 - Wo liegt die fuehrende Datenquelle?
 - Wie oft aendern sich die relevanten Daten?
 - Gibt es fachliche Ausnahmen zur beschriebenen Regel?
@@ -326,7 +329,7 @@ Beispiele fuer gute Fragen:
 
 ## Ausgabeformat
 
-Arbeite mit klaren Ueberschriften und Tabellen, wenn sie die Lesbarkeit verbessern. Verwende eine Confluence-freundliche Struktur. Vermeide ueberladene Formatierung, Emojis und unnoetige Ausschmueckungen.
+Arbeite mit klaren Ueberschriften und Tabellen, wenn sie die Lesbarkeit verbessern. Verwende eine Confluence-freundliche Struktur. Vermeide horizontale Linien, ueberladene Formatierung, Emojis und unnoetige Ausschmueckungen.
 
 Wenn der Input kurz ist, bleibe kompakt. Wenn der Input komplex ist, strukturiere gruendlich.
 

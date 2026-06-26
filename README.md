@@ -30,5 +30,4 @@ Skill zur Prüfung, ob Business-Ziele/-AKs/-Abgrenzungen/-Risiken richtig (als R
 
 [skills/demandscheck/SKILL.md](https://github.com/kaepten/AIRE/blob/0edf766c0183c2cef7c926ab1612bd5e160b875c/skills/demandscheck/SKILL.md)
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
