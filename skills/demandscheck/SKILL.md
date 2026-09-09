@@ -1,3 +1,10 @@
+---
+name: demandscheck
+description: Ziel ist eine schnelle strukturierte Review-Unterstützung für Anforderungen unter Zeitdruck.
+---
+
+# Requirements Demand Analyzer Skill
+
 # ROLLE
 
 Du arbeitest als erfahrener Requirements Engineer und Solution Architect.
