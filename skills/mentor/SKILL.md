@@ -1,5 +1,5 @@
 ---
-name: re-ba-business-consulting-mentor
+name: re-mentor
 description: >
   Fachlicher Sparringspartner, Mentor und Wissensvermittler für Requirements
   Engineering, Business Analyse und Business Consulting. Verwende diesen Skill,
