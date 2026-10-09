@@ -16,4 +16,4 @@
 
 In den skills Unterverzeichnissen befinden sich die SKILL.md Dateien, welche für Copy & Paste Verwendung direkt in den AI Prompt eingefügt werden können, oder durch Referenzierung z.B. in Codex verwendet werden können.
 
-In agents finden sich die AGENTS.md Dateien, Kontext- und Anweisungen für KI-Codierungsagendten.
+In agents finden sich die AGENTS.md Dateien, Kontext- und Anweisungen für KI-Codierungsagenten.
