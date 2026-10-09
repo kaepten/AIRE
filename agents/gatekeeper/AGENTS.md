@@ -1,4 +1,4 @@
-# Sicherheitsregeln für Jira und Confluence
+# Gatekeeper - Sicherheitsregeln für Jira und Confluence
 
 Diese Regeln haben höchste Priorität bei allen Arbeiten mit Jira und Confluence.
 
