@@ -16,7 +16,7 @@ Die globale MCP-Konfiguration befindet sich unter %USERPROFILE%\\.junie\mcp\mcp.
 *Die im Beispiel notierten Tokens, werden unter dem jeweiligen Benutzer in Jira und Confluence Backend erstellt.*
 
 ## Projektbezogene Konfiguration
-Projektbezogene MCP-Server werden unter <Projektverzeichnis>\\.junie\mcp\mcp.json konfiguriert. Diese Konfiguration gilt nur für das jeweilige Projekt.
+Projektbezogene MCP-Server werden unter %PROJECT_DIR%\\.junie\mcp\mcp.json konfiguriert. Diese Konfiguration gilt nur für das jeweilige Projekt.
 
 # SKILL
 
