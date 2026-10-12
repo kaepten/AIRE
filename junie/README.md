@@ -26,7 +26,7 @@ Global für alle deine Junie-Projekte:
 %USERPROFILE%\\.junie\skills\<skill-name>\SKILL.md
 
 Nur für ein bestimmtes Projekt:
-<Projekt>\\.junie\skills\<skill-name>\SKILL.md
+%PROJECT_DIR%\\.junie\skills\<skill-name>\SKILL.md
 
 Beispiel:
 
