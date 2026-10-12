@@ -1,0 +1,16 @@
+{
+    "mcpServers": {
+        "confluence-dc": {
+            "command": "uvx",
+            "args": [
+                "mcp-atlassian"
+            ],
+            "env": {
+                "CONFLUENCE_URL": "https://confluence.mydomain.com/",
+                "CONFLUENCE_PERSONAL_TOKEN": "replace_with_confluence_personal_token",
+                "JIRA_URL": "https://jira.mydomain.com",
+                "JIRA_PERSONAL_TOKEN": "replace_with_jira_personal_token"
+            }
+        }
+    }
+}
