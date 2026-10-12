@@ -7,9 +7,9 @@
 # MCP
 
 ## Globale Konfiguration
-Globale Einstellungen gelten für alle Projekte des Windows-Benutzers und werden standardmäßig unter %USERPROFILE%\.junie\ abgelegt.
+Globale Einstellungen gelten für alle Projekte des Windows-Benutzers und werden standardmäßig unter %USERPROFILE%\\.junie\ abgelegt.
 
-Die globale MCP-Konfiguration befindet sich unter %USERPROFILE%\.junie\mcp\mcp.json.
+Die globale MCP-Konfiguration befindet sich unter %USERPROFILE%\\.junie\mcp\mcp.json.
 
 [Beispiel mcp-atlassian Konfiguration...](https://github.com/kaepten/AIRE/blob/f4e409609c4a1e489db850863835a6e552cf8da3/junie/mcp.json)
 
